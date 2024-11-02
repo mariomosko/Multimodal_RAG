@@ -1,4 +1,6 @@
 # Multimodal_RAG QA Pipeline 
+![Screenshot 2024-11-02 132658](https://github.com/user-attachments/assets/e8485fc7-02b3-4f09-8a38-61c02a1b79ef)
+
 This project implements a Multimodal Retrieval-Augmented Generation (RAG) pipeline for complex question-answering tasks, integrating both text and image data. The pipeline combines document retrieval, image summarization, and text transformer capabilities to generate precise, context-aware answers.
 
 Key Features
