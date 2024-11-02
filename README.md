@@ -6,7 +6,7 @@ Document Retrieval with Chroma DB: Retrieves relevant documents using Chroma DB 
 Image Interpretation: Utilizes vision models (e.g., LLaVA) to process and summarize images, such as charts and tables, adding a layer of visual data analysis to the pipeline.
 Multimodal Prompt Construction: Constructs a rich prompt by combining user queries, retrieved text, and visual summaries, enhancing context for question answering.
 
-Text Generation with NousResearch LLaMA 3.1: Leverages the 8B parameter model from NousResearch for accurate, nuanced responses based on multimodal context.
+Text Generation with Hermes LLaMA 3.1: Leverages the 8B parameter model from NousResearch for accurate, nuanced responses based on multimodal context.
 LangChain Integration: Manages the pipeline flow and prompt orchestration using LangChain, simplifying the implementation and extension of RAG workflows.
 Comprehensive Output: Displays the answer along with text and image sources used in context, formatted with Markdown for readability and ease of reference.
 
